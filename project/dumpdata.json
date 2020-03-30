@@ -1,0 +1,94 @@
+[
+{
+  "model": "app.someobjecttype",
+  "pk": 3,
+  "fields": {
+    "name": "integer"
+  }
+},
+{
+  "model": "app.someobjecttype",
+  "pk": 4,
+  "fields": {
+    "name": "string"
+  }
+},
+{
+  "model": "app.someobjecttype",
+  "pk": 5,
+  "fields": {
+    "name": "boolean"
+  }
+},
+{
+  "model": "app.someobjecttype",
+  "pk": 6,
+  "fields": {
+    "name": "float"
+  }
+},
+{
+  "model": "app.someobject",
+  "pk": 3,
+  "fields": {
+    "object_type": 3,
+    "description": "integer type"
+  }
+},
+{
+  "model": "app.someobject",
+  "pk": 4,
+  "fields": {
+    "object_type": 4,
+    "description": "string type"
+  }
+},
+{
+  "model": "app.someobject",
+  "pk": 5,
+  "fields": {
+    "object_type": 5,
+    "description": "boolean type"
+  }
+},
+{
+  "model": "app.someobject",
+  "pk": 6,
+  "fields": {
+    "object_type": 6,
+    "description": "float type"
+  }
+},
+{
+  "model": "app.someobject",
+  "pk": 7,
+  "fields": {
+    "object_type": 3,
+    "description": "integer type (2)"
+  }
+},
+{
+  "model": "app.someobject",
+  "pk": 8,
+  "fields": {
+    "object_type": 4,
+    "description": "string type (2)"
+  }
+},
+{
+  "model": "app.someobject",
+  "pk": 9,
+  "fields": {
+    "object_type": 5,
+    "description": "boolean type (2)"
+  }
+},
+{
+  "model": "app.someobject",
+  "pk": 10,
+  "fields": {
+    "object_type": 6,
+    "description": "float type (2)"
+  }
+}
+]

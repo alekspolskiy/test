@@ -4,7 +4,7 @@ beautifulsoup4==4.8.2
 certifi==2019.11.28
 chardet==3.0.4
 distlib==0.3.0
-Django==3.0.4
+Django==3.0.7
 djangorestframework==3.11.0
 filelock==3.0.12
 idna==2.9
